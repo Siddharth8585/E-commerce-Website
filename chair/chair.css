@@ -1,0 +1,259 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.head {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* padding-right: 60px; */
+    /* border: 2px solid black; */
+    padding: 20px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 60px;
+}
+
+.sign {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border: none;
+}
+
+.corner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+
+}
+
+.left {
+    /* width: 70%;
+    height: 200px; */
+    padding: 70px;
+    /* border: 2px solid black; */
+
+
+}
+
+.right {
+    /* width: 30%; */
+    /* border: 2px solid black; */
+    /* height: 200px; */
+    padding: 70px;
+
+}
+
+.mid {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    /* height: 100vh;
+    width: 100%; */
+}
+
+.Stu {
+    color: orange;
+}
+
+.righ {
+    text-align: center;
+}
+
+.discover {
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: orange;
+
+}
+
+.watch {
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+
+.rig {
+    width: 40%;
+    height: 200px;
+    padding: 40px;
+    /* border: 2px solid black; */
+    /* text-align: center; */
+    background-color: rgb(184, 239, 236);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.second {
+    display: flex;
+    justify-content: space-around;
+    height: 44vh;
+    width: 100%;
+        /* border: 2px solid black; */
+
+
+}
+
+.lf {
+    width: 40%;
+    /* border: 2px solid black; */
+    height: 200px;
+    padding: 40px;
+    /* text-align: center; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(246, 231, 233);
+}
+
+.im {
+    /* border: 2px solid black; */
+    height: 45px;
+    width: 60vw;
+    display: flex;
+    align-items: center;
+}
+
+.used {
+    display: flex;
+    align-items: center;
+
+}
+
+.used>img {
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.icons {
+    /* border: 1px solid black; */
+    width: 10vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+.grid {
+    width: 85vw;
+    height: 40vh;
+    margin: auto;
+    /* border: 2px solid black; */
+    display: grid;
+}
+.thirdlast{
+    /* border: 2px solid black; */
+width: 90%;
+height: 10vh;
+padding: 50px;
+text-align: center;
+ /* display: flex;
+    justify-content: space-around; */
+
+}
+.card{
+    /* border: 2px solid black; */
+
+}
+.image{
+        /* border: 2px solid black; */
+background-color: rgb(198, 193, 193);
+
+}
+.write{
+    /* border: 2px solid black; */
+    
+
+}
+.main{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-around;
+}
+.circle{
+        /* border: 2px solid black; */
+        display: flex;
+        justify-content: space-around;
+
+}
+.regular{
+    color: orange;
+}
+.cir{
+    font-size: 10px;
+}
+/* .fa-solid{
+    color: rgb(154, 154, 155);
+} */
+ .all{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 2px solid black; */
+gap: 15px;
+padding-left: 55%;
+
+ }
+ .gri{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+ }
+ 
+
+ .container {
+    display: flex;
+    justify-content: space-evenly;
+    /* padding:0 10px; */
+/* text-align: center; */
+border: 2px solid black;
+
+
+    
+  }
+  
+  .leftcolumn {
+   /* height: 400px; */
+    /* width: 30%; */
+    /* display: flex;
+    justify-content: space-around; */
+    /* padding: 20px; */
+    border: 2px solid rgb(203, 15, 15);
+
+
+  }
+  .rightcolumn {
+    width: 60%;
+     /* display: flex;
+    justify-content: space-around;  */
+    /* align-items: center; */
+    border: 2px solid rgb(224, 12, 12);
+
+  }
+  
+  .row {
+       border: 2px solid black;
+       display: flex;
+       justify-content: space-between;
+       /* align-items: center; */
+       /* text-align: center; */
+       /* padding: 30px; */
+
+
+
+  }
+  .imag{
+    border: 4px solid rgb(7, 3, 226);
+    background-color: rgb(172, 176, 180);
+
+
+  }
